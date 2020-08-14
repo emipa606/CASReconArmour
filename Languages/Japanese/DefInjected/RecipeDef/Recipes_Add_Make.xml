@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Recipe Users: TableMachining, FabricationBench -->
+  <Make_ArmorReconArctic.label>リーコンアーマー（極地)を作る</Make_ArmorReconArctic.label>
+  <Make_ArmorReconArctic.description>リーコンアーマー（極地)を作る。</Make_ArmorReconArctic.description>
+  <Make_ArmorReconArctic.jobString>リーコンアーマー（極地)を製作中</Make_ArmorReconArctic.jobString>
+  <Make_ArmorReconDesert.label>リーコンアーマー（砂漠)を作る</Make_ArmorReconDesert.label>
+  <Make_ArmorReconDesert.description>リーコンアーマー（砂漠)を作る。</Make_ArmorReconDesert.description>
+  <Make_ArmorReconDesert.jobString>リーコンアーマー（砂漠)を製作中</Make_ArmorReconDesert.jobString>
+  <Make_ArmorReconJungle.label>リーコンアーマー（密林)を作る</Make_ArmorReconJungle.label>
+  <Make_ArmorReconJungle.description>リーコンアーマー（密林)を作る。</Make_ArmorReconJungle.description>
+  <Make_ArmorReconJungle.jobString>リーコンアーマー（密林)を製作中</Make_ArmorReconJungle.jobString>
+  <Make_ArmorReconStone.label>リーコンアーマー（岩場)を作る</Make_ArmorReconStone.label>
+  <Make_ArmorReconStone.description>リーコンアーマー（岩場)を作る。</Make_ArmorReconStone.description>
+  <Make_ArmorReconStone.jobString>リーコンアーマー（岩場)を製作中</Make_ArmorReconStone.jobString>
+  <Make_ArmorReconUrban.label>リーコンアーマー（都市)を作る</Make_ArmorReconUrban.label>
+  <Make_ArmorReconUrban.description>リーコンアーマー（都市)を作る。</Make_ArmorReconUrban.description>
+  <Make_ArmorReconUrban.jobString>リーコンアーマー（都市)を製作中</Make_ArmorReconUrban.jobString>
+  <Make_ArmorReconWoodland.label>リーコンアーマー（森林)を作る</Make_ArmorReconWoodland.label>
+  <Make_ArmorReconWoodland.description>リーコンアーマー（森林)を作る。</Make_ArmorReconWoodland.description>
+  <Make_ArmorReconWoodland.jobString>リーコンアーマー（森林)を製作中</Make_ArmorReconWoodland.jobString>
+  <Make_ArmorHelmetReconArctic.label>リーコンヘルメット（極地)を作る</Make_ArmorHelmetReconArctic.label>
+  <Make_ArmorHelmetReconArctic.description>リーコンヘルメット（極地)を作る。</Make_ArmorHelmetReconArctic.description>
+  <Make_ArmorHelmetReconArctic.jobString>リーコンヘルメット（極地)を製作中</Make_ArmorHelmetReconArctic.jobString>
+  <Make_ArmorHelmetReconDesert.label>リーコンヘルメット（砂漠)を作る</Make_ArmorHelmetReconDesert.label>
+  <Make_ArmorHelmetReconDesert.description>リーコンヘルメット（砂漠)を作る。</Make_ArmorHelmetReconDesert.description>
+  <Make_ArmorHelmetReconDesert.jobString>リーコンヘルメット（砂漠)を製作中</Make_ArmorHelmetReconDesert.jobString>
+  <Make_ArmorHelmetReconJungle.label>リーコンヘルメット（密林)を作る</Make_ArmorHelmetReconJungle.label>
+  <Make_ArmorHelmetReconJungle.description>リーコンヘルメット（密林)を作る。</Make_ArmorHelmetReconJungle.description>
+  <Make_ArmorHelmetReconJungle.jobString>リーコンヘルメット（密林)を製作中</Make_ArmorHelmetReconJungle.jobString>
+  <Make_ArmorHelmetReconStone.label>リーコンヘルメット（岩場)を作る</Make_ArmorHelmetReconStone.label>
+  <Make_ArmorHelmetReconStone.description>リーコンヘルメット（岩場)を作る。</Make_ArmorHelmetReconStone.description>
+  <Make_ArmorHelmetReconStone.jobString>リーコンヘルメット（岩場)を製作中</Make_ArmorHelmetReconStone.jobString>
+  <Make_ArmorHelmetReconUrban.label>リーコンヘルメット（都市)を作る</Make_ArmorHelmetReconUrban.label>
+  <Make_ArmorHelmetReconUrban.description>リーコンヘルメット（都市)を作る。</Make_ArmorHelmetReconUrban.description>
+  <Make_ArmorHelmetReconUrban.jobString>リーコンヘルメット（都市)を製作中</Make_ArmorHelmetReconUrban.jobString>
+  <Make_ArmorHelmetReconWoodland.label>リーコンヘルメット（森林)を作る</Make_ArmorHelmetReconWoodland.label>
+  <Make_ArmorHelmetReconWoodland.description>リーコンヘルメット（森林)を作る。</Make_ArmorHelmetReconWoodland.description>
+  <Make_ArmorHelmetReconWoodland.jobString>リーコンヘルメット（森林)を製作中</Make_ArmorHelmetReconWoodland.jobString>
+</LanguageData>

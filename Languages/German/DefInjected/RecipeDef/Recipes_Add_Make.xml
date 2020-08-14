@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Recipe Users: TableMachining, FabricationBench -->
+  <Make_ArmorReconArctic.label>Stelle Aufklärungsrüstung (Arktisch) her</Make_ArmorReconArctic.label>
+  <Make_ArmorReconArctic.description>Stelle eine Aufklärungsrüstung (Arktisch) her.</Make_ArmorReconArctic.description>
+  <Make_ArmorReconArctic.jobString>Stelle Aufklärungsrüstung (Arktisch) her</Make_ArmorReconArctic.jobString>
+  <Make_ArmorReconDesert.label>Stelle Aufklärungsrüstung (Wüste) her</Make_ArmorReconDesert.label>
+  <Make_ArmorReconDesert.description>Stelle eine Aufklärungsrüstung (Wüste) her.</Make_ArmorReconDesert.description>
+  <Make_ArmorReconDesert.jobString>Stelle Aufklärungsrüstung (Wüste) her</Make_ArmorReconDesert.jobString>
+  <Make_ArmorReconJungle.label>Stelle Aufklärungsrüstung (Dschungel) her</Make_ArmorReconJungle.label>
+  <Make_ArmorReconJungle.description>Stelle eine Aufklärungsrüstung (Dschungel) her.</Make_ArmorReconJungle.description>
+  <Make_ArmorReconJungle.jobString>Stelle Aufklärungsrüstung (Dschungel) her</Make_ArmorReconJungle.jobString>
+  <Make_ArmorReconStone.label>Stelle Aufklärungsrüstung (Digital) her</Make_ArmorReconStone.label>
+  <Make_ArmorReconStone.description>Stelle eine Aufklärungsrüstung (Digital) her.</Make_ArmorReconStone.description>
+  <Make_ArmorReconStone.jobString>Stelle Aufklärungsrüstung (Digital) her</Make_ArmorReconStone.jobString>
+  <Make_ArmorReconUrban.label>Stelle Aufklärungsrüstung (Urban) her</Make_ArmorReconUrban.label>
+  <Make_ArmorReconUrban.description>Stelle eine Aufklärungsrüstung (Urban) her.</Make_ArmorReconUrban.description>
+  <Make_ArmorReconUrban.jobString>Stelle Aufklärungsrüstung (Urban) her</Make_ArmorReconUrban.jobString>
+  <Make_ArmorReconWoodland.label>Stelle Aufklärungsrüstung (Wald) her</Make_ArmorReconWoodland.label>
+  <Make_ArmorReconWoodland.description>Stelle eine Aufklärungsrüstung (Wald) her.</Make_ArmorReconWoodland.description>
+  <Make_ArmorReconWoodland.jobString>Stelle Aufklärungsrüstung (Wald) her</Make_ArmorReconWoodland.jobString>
+  <Make_ArmorHelmetReconArctic.label>Stelle Aufklärungshelm (Arktisch) her</Make_ArmorHelmetReconArctic.label>
+  <Make_ArmorHelmetReconArctic.description>Stelle ein Aufklärungshelm (Arktisch) her.</Make_ArmorHelmetReconArctic.description>
+  <Make_ArmorHelmetReconArctic.jobString>Stelle Aufklärungshelm (Arktisch) her</Make_ArmorHelmetReconArctic.jobString>
+  <Make_ArmorHelmetReconDesert.label>Stelle Aufklärungshelm (Wüste) her</Make_ArmorHelmetReconDesert.label>
+  <Make_ArmorHelmetReconDesert.description>Stelle ein Aufklärungshelm (Wüste) her.</Make_ArmorHelmetReconDesert.description>
+  <Make_ArmorHelmetReconDesert.jobString>Stelle Aufklärungshelm (Wüste) her</Make_ArmorHelmetReconDesert.jobString>
+  <Make_ArmorHelmetReconJungle.label>Stelle Aufklärungshelm (Dschungel) her</Make_ArmorHelmetReconJungle.label>
+  <Make_ArmorHelmetReconJungle.description>Stelle Aufklärungshelm (Dschungel) her.</Make_ArmorHelmetReconJungle.description>
+  <Make_ArmorHelmetReconJungle.jobString>Stelle Aufklärungshelm (Dschungel) her.</Make_ArmorHelmetReconJungle.jobString>
+  <Make_ArmorHelmetReconStone.label>Stelle Aufklärungshelm (Digital) her</Make_ArmorHelmetReconStone.label>
+  <Make_ArmorHelmetReconStone.description>Stelle ein Aufklärungshelm (Digital) her.</Make_ArmorHelmetReconStone.description>
+  <Make_ArmorHelmetReconStone.jobString>Stelle Aufklärungshelm (Digital) her</Make_ArmorHelmetReconStone.jobString>
+  <Make_ArmorHelmetReconUrban.label>Stelle Aufklärungshelm (Urban) her</Make_ArmorHelmetReconUrban.label>
+  <Make_ArmorHelmetReconUrban.description>Stelle ein Aufklärungshelm (Urban) her.</Make_ArmorHelmetReconUrban.description>
+  <Make_ArmorHelmetReconUrban.jobString>Stelle Aufklärungshelm (Urban) her.</Make_ArmorHelmetReconUrban.jobString>
+  <Make_ArmorHelmetReconWoodland.label>Stelle Aufklärungshelm (Wald) her</Make_ArmorHelmetReconWoodland.label>
+  <Make_ArmorHelmetReconWoodland.description>Stelle ein Aufklärungshelm (Wald) her.</Make_ArmorHelmetReconWoodland.description>
+  <Make_ArmorHelmetReconWoodland.jobString>Stelle Aufklärungshelm (Wald) her.</Make_ArmorHelmetReconWoodland.jobString>
+</LanguageData>

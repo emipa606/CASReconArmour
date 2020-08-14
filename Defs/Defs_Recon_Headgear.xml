@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelArmorHelmetReconBase">
+    <defName>ArmorHelmetReconArctic</defName>
+    <label>recon helmet (Arctic)</label>
+    <description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. This armour has an arctic camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Arctic/Apparel/ReconHelmetArctic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Arctic_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/ReconArm/Arctic/Head/ReconHelmetArctic</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <comps>
+      <li Class="Observer.CompProperties_Observer">
+        <SightOffset>+0.15</SightOffset>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorHelmetReconBase">
+    <defName>ArmorHelmetReconDesert</defName>
+    <label>recon helmet (Desert)</label>
+    <description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. This armour has a desert camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Desert/Apparel/ReconHelmetDesert</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Desert_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/ReconArm/Desert/Head/ReconHelmetDesert</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <comps>
+      <li Class="Observer.CompProperties_Observer">
+        <SightOffset>+0.15</SightOffset>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorHelmetReconBase">
+    <defName>ArmorHelmetReconJungle</defName>
+    <label>recon helmet (Jungle)</label>
+    <description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. This armour has a jungle camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Jungle/Apparel/ReconHelmetJungle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Jungle_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/ReconArm/Jungle/Head/ReconHelmetJungle</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <comps>
+      <li Class="Observer.CompProperties_Observer">
+        <SightOffset>+0.15</SightOffset>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorHelmetReconBase">
+    <defName>ArmorHelmetReconStone</defName>
+    <label>recon helmet (Stone)</label>
+    <description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. This armour has a stone camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Stone/Apparel/ReconHelmetStone</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Stone_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/ReconArm/Stone/Head/ReconHelmetStone</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <comps>
+      <li Class="Observer.CompProperties_Observer">
+        <SightOffset>+0.15</SightOffset>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorHelmetReconBase">
+    <defName>ArmorHelmetReconUrban</defName>
+    <label>recon helmet (Urban)</label>
+    <description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. This armour has an urban camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Urban/Apparel/ReconHelmetUrban</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Urban_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/ReconArm/Urban/Head/ReconHelmetUrban</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <comps>
+      <li Class="Observer.CompProperties_Observer">
+        <SightOffset>+0.15</SightOffset>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorHelmetReconBase">
+    <defName>ArmorHelmetReconWoodland</defName>
+    <label>recon helmet (Woodland)</label>
+    <description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. This armour has a woodland camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Woodland/Apparel/ReconHelmetWoodland</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Woodland_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/ReconArm/Woodland/Head/ReconHelmetWoodland</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASHeadgear</li>
+    </thingCategories>
+    <comps>
+      <li Class="Observer.CompProperties_Observer">
+        <SightOffset>+0.15</SightOffset>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

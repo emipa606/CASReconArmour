@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelArmorReconBase">
+    <defName>ArmorReconArctic</defName>
+    <label>recon armor (Arctic)</label>
+    <description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. This armour has an arctic camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Arctic/Apparel/ReconArmorArctic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Arctic_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/ReconArm/Arctic/Body/ReconArmorArctic</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorReconBase">
+    <defName>ArmorReconDesert</defName>
+    <label>recon armor (Desert)</label>
+    <description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. This armour has a desert camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Desert/Apparel/ReconArmorDesert</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Desert_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/ReconArm/Desert/Body/ReconArmorDesert</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorReconBase">
+    <defName>ArmorReconJungle</defName>
+    <label>recon armor (Jungle)</label>
+    <description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. This armour has a jungle camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Jungle/Apparel/ReconArmorJungle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Jungle_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/ReconArm/Jungle/Body/ReconArmorJungle</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorReconBase">
+    <defName>ArmorReconStone</defName>
+    <label>recon armor (Stone)</label>
+    <description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. This armour has a stone camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Stone/Apparel/ReconArmorStone</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Stone_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/ReconArm/Stone/Body/ReconArmorStone</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorReconBase">
+    <defName>ArmorReconUrban</defName>
+    <label>recon armor (Urban)</label>
+    <description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. This armour has an urban camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Urban/Apparel/ReconArmorUrban</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Urban_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/ReconArm/Urban/Body/ReconArmorUrban</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="ApparelArmorReconBase">
+    <defName>ArmorReconWoodland</defName>
+    <label>recon armor (Woodland)</label>
+    <description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. This armour has a woodland camo pattern.</description>
+    <graphicData>
+      <texPath>Things/Item/ReconArm/Woodland/Apparel/ReconArmorWoodland</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>PassiveCamo_Woodland_High</li>
+        <li>SpacerMilitary</li>
+        <li>RoyalCombatGear</li>
+      </tags>
+      <wornGraphicPath>Things/Item/ReconArm/Woodland/Body/ReconArmorWoodland</wornGraphicPath>
+    </apparel>
+    <thingCategories Inherit="false">
+      <li>CASApparel</li>
+    </thingCategories>
+  </ThingDef>
+</Defs>
