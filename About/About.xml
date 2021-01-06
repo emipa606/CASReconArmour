@@ -19,33 +19,48 @@
   <loadAfter>
     <li>Mlie.CamouflageandStealth</li>
   </loadAfter>
-  <description>Update of peladors mod
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of peladors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2025354794
 
-[img]https://i.imgur.com/GYswkZ7.png[/img]
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Support-chat:
-https://invite.gg/mlie
-
-Non-steam version:
-https://github.com/emipa606/CASReconArmour
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/CASReconArmour][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-Overview
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
+[h1]Overview[/h1] V1.1
 
 Recon Armour expansion for Camouflage and Stealth (CAS).
 
 
-Mod Details
+[h1]Mod Details[/h1]
 
 Provides specific recon armours and helmets as per the default vanilla version prepared in readiness to be used with the mod Camouflage and Stealth. Includes: Arctic, Desert, Jungle, Stone, Urban and Woodland camos.
 
 No additional research, uses thing categories for player convenience and made at the fabrication bench with no additional materials.
 
-Credits
+[h1]Credits[/h1]
 
 German translation - Erdnussbrot
 Japanese translation - Proxyer
+
+[h1]GitHub[/h1]
+
+https://github.com/PeladorRW/CamoRecon
+
+[h1]Pelador's Discord[/h1]
+
+https://discord.gg/CFNP26C
+
+[h1]V1.1 Collection[/h1]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2012817741
 
 
 (CC BY-NC-SA 4.0)</description>

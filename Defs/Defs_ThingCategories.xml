@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingCategoryDef>
+    <defName>CASApparel</defName>
+    <label>CAS Apparel</label>
+    <parent>ApparelArmor</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>CASHeadgear</defName>
+    <label>CAS Headgear</label>
+    <parent>ArmorHeadgear</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>CASFootWear</defName>
+    <label>CAS Footwear</label>
+    <parent>ApparelArmor</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>CASHandWear</defName>
+    <label>CAS Handwear</label>
+    <parent>ApparelArmor</parent>
+  </ThingCategoryDef>
+</Defs>
