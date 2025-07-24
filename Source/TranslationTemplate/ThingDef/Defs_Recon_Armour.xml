@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: recon armor (Arctic) -->
+  <ArmorReconArctic.label>recon armor (Arctic)</ArmorReconArctic.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. This armour has an arctic camo pattern. -->
+  <ArmorReconArctic.description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.
+
+Armor like this is often used by imperial scout troops and glitterworld police forces. This armour has an arctic camo pattern.</ArmorReconArctic.description>
+  <!-- EN: recon armor (Desert) -->
+  <ArmorReconDesert.label>recon armor (Desert)</ArmorReconDesert.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. This armour has a desert camo pattern. -->
+  <ArmorReconDesert.description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.
+
+Armor like this is often used by imperial scout troops and glitterworld police forces. This armour has a desert camo pattern.</ArmorReconDesert.description>
+  <!-- EN: recon armor (Jungle) -->
+  <ArmorReconJungle.label>recon armor (Jungle)</ArmorReconJungle.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. This armour has a jungle camo pattern. -->
+  <ArmorReconJungle.description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.
+
+Armor like this is often used by imperial scout troops and glitterworld police forces. This armour has a jungle camo pattern.</ArmorReconJungle.description>
+  <!-- EN: recon armor (Stone) -->
+  <ArmorReconStone.label>recon armor (Stone)</ArmorReconStone.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. This armour has a stone camo pattern. -->
+  <ArmorReconStone.description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.
+
+Armor like this is often used by imperial scout troops and glitterworld police forces. This armour has a stone camo pattern.</ArmorReconStone.description>
+  <!-- EN: recon armor (Urban) -->
+  <ArmorReconUrban.label>recon armor (Urban)</ArmorReconUrban.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. This armour has an urban camo pattern. -->
+  <ArmorReconUrban.description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.
+
+Armor like this is often used by imperial scout troops and glitterworld police forces. This armour has an urban camo pattern.</ArmorReconUrban.description>
+  <!-- EN: recon armor (Woodland) -->
+  <ArmorReconWoodland.label>recon armor (Woodland)</ArmorReconWoodland.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. This armour has a woodland camo pattern. -->
+  <ArmorReconWoodland.description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.
+
+Armor like this is often used by imperial scout troops and glitterworld police forces. This armour has a woodland camo pattern.</ArmorReconWoodland.description>
+</LanguageData>

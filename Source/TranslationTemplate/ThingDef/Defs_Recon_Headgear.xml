@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: recon helmet (Arctic) -->
+  <ArmorHelmetReconArctic.label>recon helmet (Arctic)</ArmorHelmetReconArctic.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. This armour has an arctic camo pattern. -->
+  <ArmorHelmetReconArctic.description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.
+
+Armor like this is often used by imperial scout troops or glitterworld police forces. This armour has an arctic camo pattern.</ArmorHelmetReconArctic.description>
+  <!-- EN: recon helmet (Desert) -->
+  <ArmorHelmetReconDesert.label>recon helmet (Desert)</ArmorHelmetReconDesert.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. This armour has a desert camo pattern. -->
+  <ArmorHelmetReconDesert.description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.
+
+Armor like this is often used by imperial scout troops or glitterworld police forces. This armour has a desert camo pattern.</ArmorHelmetReconDesert.description>
+  <!-- EN: recon helmet (Jungle) -->
+  <ArmorHelmetReconJungle.label>recon helmet (Jungle)</ArmorHelmetReconJungle.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. This armour has a jungle camo pattern. -->
+  <ArmorHelmetReconJungle.description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.
+
+Armor like this is often used by imperial scout troops or glitterworld police forces. This armour has a jungle camo pattern.</ArmorHelmetReconJungle.description>
+  <!-- EN: recon helmet (Stone) -->
+  <ArmorHelmetReconStone.label>recon helmet (Stone)</ArmorHelmetReconStone.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. This armour has a stone camo pattern. -->
+  <ArmorHelmetReconStone.description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.
+
+Armor like this is often used by imperial scout troops or glitterworld police forces. This armour has a stone camo pattern.</ArmorHelmetReconStone.description>
+  <!-- EN: recon helmet (Urban) -->
+  <ArmorHelmetReconUrban.label>recon helmet (Urban)</ArmorHelmetReconUrban.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. This armour has an urban camo pattern. -->
+  <ArmorHelmetReconUrban.description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.
+
+Armor like this is often used by imperial scout troops or glitterworld police forces. This armour has an urban camo pattern.</ArmorHelmetReconUrban.description>
+  <!-- EN: recon helmet (Woodland) -->
+  <ArmorHelmetReconWoodland.label>recon helmet (Woodland)</ArmorHelmetReconWoodland.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. This armour has a woodland camo pattern. -->
+  <ArmorHelmetReconWoodland.description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.
+
+Armor like this is often used by imperial scout troops or glitterworld police forces. This armour has a woodland camo pattern.</ArmorHelmetReconWoodland.description>
+</LanguageData>

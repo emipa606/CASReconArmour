@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: CAS Apparel -->
+  <CASApparel.label>CAS Apparel</CASApparel.label>
+  <!-- EN: CAS Footwear -->
+  <CASFootWear.label>CAS Footwear</CASFootWear.label>
+  <!-- EN: CAS Handwear -->
+  <CASHandWear.label>CAS Handwear</CASHandWear.label>
+  <!-- EN: CAS Headgear -->
+  <CASHeadgear.label>CAS Headgear</CASHeadgear.label>
+</LanguageData>
